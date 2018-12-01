@@ -1,1 +1,31 @@
-file:///C:/Users/stjudent/Desktop/New%20folder%20(2)/index.html
+<!DOCTYPE html>
+<html lang="ka">
+<meta charset="utf-8">
+<style type="text/css"></style>
+<br>
+<a href="index.html">მთავარი</a>
+<br>
+<a href="index.html">კონტაქტი</a>
+<br>
+<a href="index.html">ჩვენს შესახებ</a>
+<body style="background-color: #9E9E9E">
+<a href="about/about"></a>
+<br>
+ <h1>Computer Scientist</h1>
+<br>
+  <h3 {
+    display: block;
+    font-size: 1.17em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 10px;
+    margin-inline-end: 10px;
+    font-weight: bold;
+}
+<h3> A computer scientistis a person who has acquired the knowledge of computer science, the study of the theoretical foundations of information and computation and their application.[1]</h3>
+
+<img src="C:/Users/stjudent/Desktop/New folder (2)/image/computer.jpg">
+
+<h4>typically work on the theoretical side of computer systems, as opposed to the hardware side that computer engineers mainly focus on (although there is overlap). Although computer scientists can also focus their work and research on specific areas (such as algorithm and date structure development and design, software enginee </h4 <style="
+margin-inline-start: 40px;
+    margin-inline-end: 40px;"></h4>
